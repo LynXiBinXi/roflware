@@ -1,0 +1,24 @@
+{
+  "maps": {
+    "ar_baggage":        { "v": 1, "size": 11694744,  "date": "2026-03-07" },
+    "ar_shoots":         { "v": 1, "size": 28969740,  "date": "2026-03-07" },
+    "ar_shoots_night":   { "v": 1, "size": 29056176,  "date": "2026-03-07" },
+    "cs_alpine":         { "v": 1, "size": 104241384, "date": "2026-03-07" },
+    "cs_italy":          { "v": 1, "size": 47502216,  "date": "2026-03-07" },
+    "cs_office":         { "v": 1, "size": 4160736,   "date": "2026-03-07" },
+    "de_ancient":        { "v": 1, "size": 34578288,  "date": "2026-03-07" },
+    "de_ancient_night":  { "v": 1, "size": 34848720,  "date": "2026-03-07" },
+    "de_anubis":         { "v": 1, "size": 29207304,  "date": "2026-03-07" },
+    "de_dust2":          { "v": 1, "size": 18498528,  "date": "2026-03-07" },
+    "de_inferno":        { "v": 1, "size": 94250952,  "date": "2026-03-07" },
+    "de_mirage":         { "v": 1, "size": 4975452,   "date": "2026-03-07" },
+    "de_nuke":           { "v": 1, "size": 7329852,   "date": "2026-03-07" },
+    "de_overpass":       { "v": 1, "size": 24280092,  "date": "2026-03-07" },
+    "de_poseidon":       { "v": 1, "size": 26561772,  "date": "2026-03-07" },
+    "de_sanctum":        { "v": 1, "size": 25544448,  "date": "2026-03-07" },
+    "de_stronghold":     { "v": 1, "size": 99109872,  "date": "2026-03-07" },
+    "de_train":          { "v": 1, "size": 56377836,  "date": "2026-03-07" },
+    "de_vertigo":        { "v": 1, "size": 9571248,   "date": "2026-03-07" },
+    "de_warden":         { "v": 1, "size": 27559548,  "date": "2026-03-07" }
+  }
+}
